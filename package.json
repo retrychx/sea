@@ -2,7 +2,7 @@
   "name": "electron-vue-vite",
   "version": "0.0.1",
   "main": "dist/main/index.cjs",
-  "author": "草鞋没号 <308487730@qq.com>",
+  "author": "migor(retrychx@163.com)",
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",

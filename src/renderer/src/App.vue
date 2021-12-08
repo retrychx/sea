@@ -5,13 +5,13 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div class="logo-box">
+  <!-- <div class="logo-box">
     <img style="height:200px;" src="./assets/electron.png" alt="Electron logo">
     <span/>
     <img style="height:200px;" alt="Vite logo" src="./assets/vite.svg" />
     <span/>
     <img style="height:200px;" alt="Vue logo" src="./assets/vue.png" />
-  </div>
+  </div> -->
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 </template>
 
