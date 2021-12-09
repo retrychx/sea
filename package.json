@@ -12,6 +12,10 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
+    "@du/atomcss": "^0.0.12",
+    "node-sass": "^7.0.0",
+    "sass": "^1.44.0",
+    "sass-loader": "^12.4.0",
     "vue": "^3.2.22"
   },
   "devDependencies": {
